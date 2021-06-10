@@ -7,6 +7,6 @@ Tags:  Lime and Shapley
 
 ## Slides
 
-- [Lecture 10: Introduction and Overview of Viz for Deep Models: lime and shapley	 | PDF]({attach}presentation/lecture10.pdf) 
+<!-- - [Lecture 10: Introduction and Overview of Viz for Deep Models: lime and shapley	 | PDF]({attach}presentation/lecture10.pdf)  -->
 
 

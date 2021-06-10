@@ -6,9 +6,9 @@ Slug: lecture7
 Tags: Language Modeling, Text
 
 ## Slides
-
+<!-- 
 - [Lecture 7: Language Models and Transfer Learning for Text	 | PDF]({attach}presentation/lecture7.pdf) 
-- [Lecture 7: Language Models and Transfer Learning for Text	 | PPTX]({attach}presentation/lecture7.pptx)
+- [Lecture 7: Language Models and Transfer Learning for Text	 | PPTX]({attach}presentation/lecture7.pptx) -->
 
 
 <!-- ## Demo

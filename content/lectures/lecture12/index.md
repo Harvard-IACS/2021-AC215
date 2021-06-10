@@ -6,9 +6,9 @@ Slug: lecture12
 Tags: Language Models
 
 ## Slides
-
+<!-- 
 - [Lecture 12: Attention for Debugging Language Models	  | PDF]({attach}presentation/lecture12.pdf) 
-- [Lecture 12: Attention for Debugging Language Models		 | PPTX]({attach}presentation/lecture12.pptx) 
+- [Lecture 12: Attention for Debugging Language Models		 | PPTX]({attach}presentation/lecture12.pptx)  -->
 
 <!-- 
 ## Demo 

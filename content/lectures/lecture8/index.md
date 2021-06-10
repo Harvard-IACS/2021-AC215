@@ -7,7 +7,7 @@ Tags: Attention, Transformers
 
 ## Slides
 
-- [Lecture 8: Attention and Transformers	 | PDF]({attach}presentation/lecture8.pdf) 
-- [Lecture 8: Attention and Transformers	 | PPTX]({attach}presentation/lecture8.pptx)
+<!-- - [Lecture 8: Attention and Transformers	 | PDF]({attach}presentation/lecture8.pdf) 
+- [Lecture 8: Attention and Transformers	 | PPTX]({attach}presentation/lecture8.pptx) -->
 
  

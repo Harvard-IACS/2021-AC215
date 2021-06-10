@@ -6,13 +6,13 @@ Slug: lecture5
 Tags: Transfer Learning, CNN
 
 ## Slides
-
+<!-- 
 - [Lecture 5: Transfer Learning | PDF]({attach}presentation/lecture5.pdf) 
-- [Lecture 5: Transfer Learning | PPTX]({attach}presentation/lecture5.pptx)
+- [Lecture 5: Transfer Learning | PPTX]({attach}presentation/lecture5.pptx) -->
 
 ## Demo 
-
-- [Transfer Learning Demo](https://colab.research.google.com/drive/1slNQRcY84qh8gkFoO8g3-k6e5P5F6vEj?usp=sharing)
+<!-- 
+- [Transfer Learning Demo](https://colab.research.google.com/drive/1slNQRcY84qh8gkFoO8g3-k6e5P5F6vEj?usp=sharing) -->
 
 
 <!-- ## Demo

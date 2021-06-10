@@ -3,7 +3,7 @@ Date: 2019-12-20
 save_as: index.html
 
 <h5>
-Fall 2020 <br><br>
+Fall 2021  <br><br>
 <a href="https://iacs.seas.harvard.edu/people/pavlos-protopapas">Pavlos Protopapas</a>
 </h5>
 Office Hours: By appointment
@@ -41,10 +41,10 @@ pre {
   }
 </style>
 
-**Course helpline:**  [ac295f2020@gmail.com](ac295f2020@gmail.com) 
+**Course helpline:**  [ac215.fall2021@gmail.com](ac215.fall2021@gmail.com) 
 <hr>
 
-<p>Welcome to AC295: advanced practical data science. 
+<p>Welcome to AC215: advanced practical data science. 
 
 The course will be divided into three major topics: 
 
@@ -68,14 +68,9 @@ The course will be divided into three major topics:
 
 |TF | Day| Office Hours| 
 |-----|-----|-----|
-|William Palmer| Sunday | 10:00-11:30 AM |
-|Shivas Jayaram | Sunday | 8:00 - 9:30 PM |
-|Javid Lakha|  Monday | 4:30 - 6:00 PM |
-|Faras Sadek|  Monday | 6:00 - 7:30 PM |
-|Hai Bui|  Wednesday | 11:00 AM - 12:30 PM |
-|Andrea Porelli| Thursday | 1:00 -2:30 PM |
-|Rashmi Banthia| Friday |  8:30-10:00 AM|
-|Yujiao Chen|  Saturday | 11:00 AM - 12:30 PM |
+|Shivas Jayaram |  |  |
+|Rashmi Banthia|  |  |
+|Andrew Smith|   |  |
 
  
 
