@@ -131,130 +131,228 @@
   <h1>Syllabus</h1>
   <br />
   <hr />
-  <p>Productionizing AI (MLOps) Syllabus</p>
-<p>Instructor: Pavlos Protopapas</p>
-<p>Teaching Assistant:  </p>
-<p>Class Meeting Times:</p>
-<p>Sessions: Tuesdays 2:15 PM - 3:30 PM<br>
-Office Hours:  </p>
-<p>Overview of the Course </p>
-<p>This course aims to review existing Deep Learning flow while applying it to a real-world problem. Then we will build and deploy an application that uses the deep learning model to understand how to productionize models. This course follows the Univ.AI model of balancing between concept, theory, and implementation.</p>
+  <style>
+pre {
+  background-color: #F5F5F5;
+  display: block;
+  font-family: monospace;
+  font-size: 14px;
+  white-space: pre;
+  border-color: #999999;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 6px;
+  margin: 1em 0;
+  padding: 5px;
+  white-space: pre-wrap;
+}
+.containerMain {
+    display: flex;
+    width: 100%;
+    height: 300px;
+}
+</style>
+
+<p><br/></p>
+<h5>Welcome to APCOMP 215 / CSCIE-115: Advanced practical data science  </h5>
+<p><br/></p>
+<p><strong>Course helpline:</strong> <a href="ac215.fall2021@gmail.com">ac215.fall2021@gmail.com</a></p>
+<hr>
+
+<p><strong>Instructor:</strong>  Pavlos Protopapas</p>
+<p><strong>Sessions:</strong> Tuesdays and Thursdays -  2:15 PM - 3:30 PM </p>
+<p><strong>TFs:</strong> Rashmi Banthia,  Shivas Jayaram, Andrew Smith, Gordon Hew</p>
+<p><strong>Office Hours:</strong> TBD</p>
+<hr>
+
+<h4>Overview of the Course</h4>
+
+<p>This course aims to review existing Deep Learning flow while applying it to a real-world problem. Then we will build and deploy an application that uses the deep learning model to understand how to productionize models. This course follows the CS109 A/B model of balancing between concept, theory, and implementation.</p>
 <p>Split into three parts; the course starts with the review of Deep Learning concepts for data and modeling and how to apply them to different tasks, including vision and language tasks. The next part will be Development, where you use the models you trained in part 1 and incorporate them into real-world applications. Finally, you will Deploy the application in Google Cloud Platform (GCP). The three parts will cover in detail topics such as Transfer learning, Containerization using Docker, and Scaling deployments using Kubernetes.</p>
 <p>At the end of this module, you will build efficient deep learning models and design, build and deploy applications that scale.</p>
-<p>Course Topics </p>
-<p>Project Outline:</p>
-<p>Introduction to Projects</p>
-<p>Problem Definition </p>
-<p>Proposed Solutions </p>
-<p>Project Scope</p>
-<p>Deep Learning:</p>
+<h4>Course Topics</h4>
+
+<p><strong>Project Outline:</strong></p>
+<ul>
+<li>Introduction to Projects<ul>
+<li>Problem Definition </li>
+<li>Proposed Solutions </li>
+<li>Project Scope</li>
+</ul>
+</li>
+</ul>
+<p><strong>Deep Learning:</strong></p>
+<ul>
+<li>
 <p>Data</p>
-<p>Data Pipelines </p>
-<p>TensorFlow Data </p>
-<p>TensorFlow Records </p>
-<p>Dask </p>
-<p>Cloud Storage</p>
+<ul>
+<li>Data Pipelines </li>
+<li>TensorFlow Data </li>
+<li>TensorFlow Records </li>
+<li>Dask </li>
+<li>Cloud Storage</li>
+</ul>
+</li>
+<li>
 <p>Models</p>
-<p>Computer Vision: Classification </p>
-<p>Computer Vision: Segmentation </p>
-<p>NLP &amp; Language Models </p>
-<p>Transfer Learning and SOTA Models </p>
-<p>Distillation and Compression</p>
-<p>Development:</p>
+<ul>
+<li>Computer Vision: Classification </li>
+<li>Computer Vision: Segmentation </li>
+<li>NLP &amp; Language Models </li>
+<li>Transfer Learning and SOTA Models </li>
+<li>Distillation and Compression</li>
+</ul>
+</li>
+</ul>
+<p><strong>Development:</strong></p>
+<ul>
+<li>
 <p>Design</p>
-<p>Virtual Environments, Virtual Machines </p>
-<p>Containers &amp; Docker </p>
-<p>App Design </p>
+<ul>
+<li>Virtual Environments, Virtual Machines </li>
+<li>Containers &amp; Docker </li>
+<li>App Design </li>
+</ul>
+</li>
+<li>
 <p>Develop</p>
-<p>Setup and Code organization </p>
-<p>APIs and Model serving </p>
-<p>App frontend</p>
-<p>Operations:</p>
-<p>Deployment, Scaling, &amp; Automation</p>
-<p>Google Cloud Platform (GCP) </p>
-<p>Kubernetes </p>
-<p>Ansible</p>
-<p>Prerequisites</p>
+<ul>
+<li>Setup and Code organization </li>
+<li>APIs and Model serving </li>
+<li>App frontend</li>
+</ul>
+</li>
+</ul>
+<p><strong>Operations:</strong></p>
+<ul>
+<li>Deployment, Scaling, &amp; Automation<ul>
+<li>Google Cloud Platform (GCP) </li>
+<li>Kubernetes </li>
+<li>Ansible</li>
+</ul>
+</li>
+</ul>
+<h4> Prerequisites </h4>
+
 <p>Your are expected to know the following: </p>
-<p>Good working knowledge of python </p>
-<p>Good understanding on the <code>Tensorflow</code> Deep Learning framework </p>
-<p>Basic shell commands </p>
-<p>Programming:</p>
-<p>Experience with Python: Functions, Classes, Modules, NumPy, Pandas, Tensorflow</p>
-<p>Basic Data Structures: Dictionaries and Lists </p>
-<p>File I/O</p>
-<p>Grading Breakdown </p>
-<p>Discussion Forum 10% </p>
-<p>Quiz                                                      10% </p>
-<p>Exercises                                              20% </p>
-<p>Milestone 1                                          5% </p>
-<p>Milestone 2                                         15% </p>
-<p>Milestone 3                                         15% </p>
-<p>Final Presentation &amp; Deliverable     25%</p>
-<p>Course Components</p>
+<ul>
+<li>Good working knowledge of python </li>
+<li>Good understanding on the <code>Tensorflow</code> Deep Learning framework </li>
+<li>Basic shell commands </li>
+</ul>
+<h4> Programming:</h4>
+
+<ul>
+<li>Experience with Python: Functions, Classes, Modules, NumPy, Pandas, Tensorflow</li>
+<li>Basic Data Structures: Dictionaries and Lists </li>
+<li>File I/O</li>
+</ul>
+<h4> Grading Breakdown </h4>
+
+<ul>
+<li>Discussion Forum 10% </li>
+<li>Quiz 10% </li>
+<li>Exercises 20% </li>
+<li>Milestone 1 5% </li>
+<li>Milestone 2 15% </li>
+<li>Milestone 3 15% </li>
+<li>Final Presentation &amp; Deliverable 25%</li>
+</ul>
+<h4>Course Components</h4>
+
 <p>The course includes the following every week:</p>
-<p>2 Sessions</p>
-<p>2 Labs</p>
-<p>1 Office hours</p>
-<p>Session</p>
+<ul>
+<li>2 Sessions (Lecture+Lab)</li>
+<li>Office hours</li>
+</ul>
+<p><strong>Session</strong></p>
 <p>Before the session begins, students are expected to complete a pre-class reading assignment and and attempt a quiz based on the same. The session will be one and half hours and will have the following layout:</p>
-<p>Sessions will help students develop the intuition for the core concepts, provide the necessary mathematical background, and provide guidance on technical details. </p>
-<p>Sessions will be accompanied by relevant examples to clarify key concepts and techniques.</p>
-<p>More detailed examples of the topics will be covered in lab the following day</p>
+<ul>
+<li>Sessions will help students develop the intuition for the core concepts, provide the necessary mathematical background, and provide guidance on technical details. </li>
+<li>Sessions will be accompanied by relevant examples to clarify key concepts and techniques.</li>
+<li>More detailed examples of the topics will be covered in lab the following day</li>
+</ul>
 <p>Students must participate in sessions.  </p>
-<p>Lab</p>
-<p>The lab is a one and half hour session divided into 3 parts:</p>
-<p>Quiz and Q&amp;A Session: Q&amp;A and go over any quiz related topic from sessions</p>
-<p>Tutorial: This will be an instructor driven in-depth implementation walk through of code related to the topics covered in the previous session. These tutorials will help you understand the concepts and give you starter code that will help in your projects</p>
-<p>Homework Discussion: Code that cannot be completed in tutorials will be left as an exercise for the student to complete as homework. We will go over hints to complete your homework which will be an individual effort.</p>
+<p><strong>Lab</strong>
+The lab is a one and half hour session divided into 3 parts:</p>
+<ul>
+<li>Quiz and Q&amp;A Session: Q&amp;A and go over any quiz related topic from sessions</li>
+<li>Tutorial: This will be an instructor driven in-depth implementation walk through of code related to the topics covered in the previous session. These tutorials will help you understand the concepts and give you starter code that will help in your projects</li>
+<li>Homework Discussion: Code that cannot be completed in tutorials will be left as an exercise for the student to complete as homework. We will go over hints to complete your homework which will be an individual effort.</li>
+</ul>
 <p>It is encouraged to be present in the lab as most of the homework can be done during this time. </p>
-<p>Reading Assignments</p>
+<p><strong>Reading Assignments</strong></p>
 <p>The course schedule may include readings which will be available before the lecture. The goal of the reading assignments is to prepare for class, to familiarize yourself with new terminology and definitions, and to determine which part of the subject needs more attention.</p>
 <p>Each session may have a short quiz at the beginning which covers the assigned reading for that week.</p>
-<p>Homework</p>
+<p><strong>Homework</strong></p>
 <p>As mentioned above, post each lab there will be parts of the tutorial that will need to be completed as homework. </p>
-<p>Project</p>
+<p><strong>Project</strong></p>
 <p>During the entire course you will work in teams and implement a project. The various topics in the class are designed to help you build milestones in an incremental fashion and build towards the end goal. The final outcome with your project will be a fully working AI App.</p>
-<p>Project groups need to be formed by the first week of class</p>
-<p>Group size : 4</p>
-<p>Select a project from the list given or bring your own</p>
+<ul>
+<li>Project groups need to be formed by the first week of class</li>
+<li>Group size : 4</li>
+<li>Select a project from the list given or bring your own</li>
+<li>
 <p>Criteria for projects are:</p>
-<p>Deep learning task implemented should include both computer vision and language models</p>
-<p>The end product should be a deployable app that uses the models in the backend in some form</p>
+<ul>
+<li>Deep learning task implemented should include both computer vision and language models</li>
+<li>The end product should be a deployable app that uses the models in the backend in some form</li>
+</ul>
+</li>
+<li>
 <p>If you plan to bring your own project idea, the following additional criteria must be met:</p>
-<p>Dataset size 5 Gigabytes or larger</p>
-<p>Data should include images and text</p>
-<p>Please find a more detailed summary of all projects here.</p>
-<p>Deadlines</p>
-<p>All quizzes are due before the day the next session.</p>
-<p>All homework are due before the day the next lab. </p>
-<p>There will be no extensions given for the homework and quizzes.</p>
-<p>The deadline for the project milestones will be announced in the scaffold.</p>
-<p>Software</p>
+<ul>
+<li>Dataset size 5 Gigabytes or larger</li>
+<li>Data should include images and text</li>
+</ul>
+</li>
+</ul>
+<p>Please find a more detailed summary of all projects here. [TODO]</p>
+<h4>Deadlines</h4>
+
+<ul>
+<li>All quizzes are due before the day the next session.</li>
+<li>All homework are due before the day the next lab. </li>
+<li>There will be no extensions given for the homework and quizzes.</li>
+<li>The deadline for the project milestones will be announced in the scaffold.</li>
+</ul>
+<h4>Software</h4>
 <p>All softwares required for this course and installation instructions/help will be provided in Lab 1</p>
-<p>Course Policies</p>
-<p>Getting Help</p>
+<h4>Course Policies</h4>
+
+<p><strong>Getting Help</strong></p>
 <p>For questions about homework, course content, package installation, after you have tried to troubleshoot yourselves, the process to get help is:</p>
-<p>Post the question on ED and hopefully, your peers will answer. Note that questions on ED are visible to everyone. The teaching staff monitors the posts.</p>
-<p>Attend Office Hours, this is the best way to get help.</p>
-<p>For private matters send an email to the instructor.</p>
-<p>Academic Honesty</p>
+<ul>
+<li>Post the question on ED and hopefully, your peers will answer. Note that questions on ED are visible to everyone. The teaching staff monitors the posts.</li>
+<li>Attend Office Hours, this is the best way to get help.</li>
+<li>For private matters send an email to the instructor.</li>
+</ul>
+<p><strong>Academic Honesty</strong></p>
 <p>Ethical behavior is an important trait, from ethically handling data to the attribution of code and work of others. Thus, in this session, we give a strong emphasis on Academic Honesty.</p>
 <p>As a student, your best guidelines are to be reasonable and fair. We encourage teamwork for problem sets, but you should not split the homework and you should work on all the problems together.</p>
 <p>We have included some ideas below of acceptable and not acceptable behaviors. Engaging in not acceptable behavior regarding academic honesty will be handled accordingly.</p>
 <p>Please be responsible and when in doubt ask the course instructors.</p>
-<p>ACCEPTABLE:</p>
-<p>Discussing materials and engaging in OH.</p>
-<p>Helping debug.</p>
-<p>Using a few lines of code found online or another forum as long as you cite the origin and attribute authorship of code.</p>
-<p>Searching online to expand your knowledge and for debugging</p>
-<p>Using a tutor, provided the tutor does not do your work for you.</p>
-<p>NOT ACCEPTABLE:</p>
-<p>Accessing a solution to some problem prior to submitting your own.</p>
-<p>Failing to cite the origins of code or techniques that you discover outside of the course’s own lessons and integrate into your own work.</p>
-<p>Paying or offering to pay an individual for work that you may submit as your own.</p>
-<p>Providing or making available solutions to problem sets to individuals who might take this course in the future.</p>
-<p>Searching for or soliciting outright solutions to problem sets online or elsewhere.</p>
+<p><strong>ACCEPTABLE:</strong></p>
+<ul>
+<li>Discussing materials and engaging in OH.</li>
+<li>Helping debug.</li>
+<li>Using a few lines of code found online or another forum as long as you cite the origin and attribute authorship of code.</li>
+<li>Searching online to expand your knowledge and for debugging</li>
+<li>Using a tutor, provided the tutor does not do your work for you.</li>
+</ul>
+<p><strong>NOT ACCEPTABLE:</strong></p>
+<ul>
+<li>Accessing a solution to some problem prior to submitting your own.</li>
+<li>Failing to cite the origins of code or techniques that you discover outside of the course’s own lessons and integrate into your own work.</li>
+<li>Paying or offering to pay an individual for work that you may submit as your own.</li>
+<li>Providing or making available solutions to problem sets to individuals who might take this course in the future.</li>
+<li>Searching for or soliciting outright solutions to problem sets online or elsewhere.</li>
+</ul>
+<p><strong>Academic Honesty</strong></p>
+<p>Ethical behavior is an important trait of a Data Scientist, from ethically handling data to attribution of code and work of others. Thus, in AC295 we give a strong emphasis to Academic Honesty. As a student your best guidelines are to be reasonable and fair. We encourage teamwork for problem sets, but you should not split the assignments and you should work on all the problems together.</p>
+<p><strong>Accommodations for students with disabilities</strong></p>
+<p>Students needing academic adjustments or accommodations because of a documented disability must present their Faculty Letter from the <a href="http://www.aeo.fas.harvard.edu/">Accessible Education Office</a>(AEO) and speak with Pavlos by the end of the third week of the term: Friday, September 18[TODO].  Failure to do so may result in us being unable to respond in a timely manner. All discussions will remain confidential.</p>
+<p><strong>Accommodations for students with disabilities</strong></p>
     </main>
 
 <footer class="footer">
