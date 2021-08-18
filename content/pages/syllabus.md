@@ -1,5 +1,5 @@
 Title: Syllabus
-Slug: Syllabus
+Slug: syllabus
 Date: 2021-08-18
 
 
