@@ -230,5 +230,3 @@ Ethical behavior is an important trait of a Data Scientist, from ethically handl
 **Accommodations for students with disabilities**
 
 Students needing academic adjustments or accommodations because of a documented disability must present their Faculty Letter from the [Accessible Education Office](http://www.aeo.fas.harvard.edu/)(AEO) and speak with Pavlos by the end of the third week of the term: Friday, September 18[TODO].  Failure to do so may result in us being unable to respond in a timely manner. All discussions will remain confidential.
-
-**Accommodations for students with disabilities**
