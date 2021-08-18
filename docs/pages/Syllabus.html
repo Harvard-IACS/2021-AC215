@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <meta
+      name="description"
+      content="Fall 2021 - Harvard University, Institute for Applied Computational Science. "
+    />
+    <meta name="author" content="Pavlos Protopapas	" />
+
+    <!-- Bootstrap CSS -->
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css"
+      integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB"
+      crossorigin="anonymous"
+    />
+
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.2.0/css/all.css"
+      integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ"
+      crossorigin="anonymous"
+    />
+
+    <link
+      href="https://fonts.googleapis.com/css?family=Roboto+Condensed|Roboto:300,400,700"
+      rel="stylesheet"
+    />
+
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css"
+    />
+
+    <link
+      rel="stylesheet"
+      href="../style/tipuesearch/tipuesearch.css"
+    />
+
+    <link
+      rel="shortcut icon"
+      type="image/x-icon"
+      href="../style/images/favicon.ico"
+    />
+    <link rel="stylesheet" href="../style/css/iacs.css" />
+
+    <title>Harvard AC215 | Syllabus</title>
+
+    <style>
+      .navbar {
+        background-color: #7998A0
+      }
+    </style>
+  </head>
+  <body>
+<nav class="navbar navbar-dark navbar-expand-md">
+  <div class="container">
+    <a class="navbar-brand" href="..">
+      <img
+        class="navbar-brand-logo"
+        src="../style/images/logo.png"
+      />
+      <h3 class="course-title">AC215</h3>
+    </a>
+    <button
+      class="navbar-toggler"
+      type="button"
+      data-toggle="collapse"
+      data-target="#navbarsDefault"
+      aria-controls="navbarsDefault"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+    >
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarsDefault">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="../pages/syllabus.html">Syllabus</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="../pages/calendars.html">Calendars</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="../pages/schedule.html">Schedule</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="../pages/materials.html">Materials</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="../pages/projects.html">Projects</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="../pages/faq.html">FAQ</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="../pages/resources.html">Resources</a>
+        </li>
+        <form
+          class="form-inline my-2"
+          action="../search.html"
+          onsubmit="return validateForm(this.elements['q'].value);"
+        >
+          <div class="input-group input-group-sm">
+            <input
+              class="form-control"
+              type="text"
+              name="q"
+              placeholder="Search Topic"
+            />
+            <div class="input-group-append">
+              <button class="btn btn-default" type="submit">
+                <i class="fas fa-search"></i>
+              </button>
+            </div>
+          </div>
+        </form>
+      </ul>
+    </div>
+    <!-- .collapse navbar-collapse -->
+  </div>
+  <!-- .container -->
+</nav>
+    <main id="content" class="container">
+  <h1>Syllabus</h1>
+  <br />
+  <hr />
+  <p>Productionizing AI (MLOps) Syllabus</p>
+<p>Instructor: Pavlos Protopapas</p>
+<p>Teaching Assistant:  </p>
+<p>Class Meeting Times:</p>
+<p>Sessions: Tuesdays 2:15 PM - 3:30 PM<br>
+Office Hours:  </p>
+<p>Overview of the Course </p>
+<p>This course aims to review existing Deep Learning flow while applying it to a real-world problem. Then we will build and deploy an application that uses the deep learning model to understand how to productionize models. This course follows the Univ.AI model of balancing between concept, theory, and implementation.</p>
+<p>Split into three parts; the course starts with the review of Deep Learning concepts for data and modeling and how to apply them to different tasks, including vision and language tasks. The next part will be Development, where you use the models you trained in part 1 and incorporate them into real-world applications. Finally, you will Deploy the application in Google Cloud Platform (GCP). The three parts will cover in detail topics such as Transfer learning, Containerization using Docker, and Scaling deployments using Kubernetes.</p>
+<p>At the end of this module, you will build efficient deep learning models and design, build and deploy applications that scale.</p>
+<p>Course Topics </p>
+<p>Project Outline:</p>
+<p>Introduction to Projects</p>
+<p>Problem Definition </p>
+<p>Proposed Solutions </p>
+<p>Project Scope</p>
+<p>Deep Learning:</p>
+<p>Data</p>
+<p>Data Pipelines </p>
+<p>TensorFlow Data </p>
+<p>TensorFlow Records </p>
+<p>Dask </p>
+<p>Cloud Storage</p>
+<p>Models</p>
+<p>Computer Vision: Classification </p>
+<p>Computer Vision: Segmentation </p>
+<p>NLP &amp; Language Models </p>
+<p>Transfer Learning and SOTA Models </p>
+<p>Distillation and Compression</p>
+<p>Development:</p>
+<p>Design</p>
+<p>Virtual Environments, Virtual Machines </p>
+<p>Containers &amp; Docker </p>
+<p>App Design </p>
+<p>Develop</p>
+<p>Setup and Code organization </p>
+<p>APIs and Model serving </p>
+<p>App frontend</p>
+<p>Operations:</p>
+<p>Deployment, Scaling, &amp; Automation</p>
+<p>Google Cloud Platform (GCP) </p>
+<p>Kubernetes </p>
+<p>Ansible</p>
+<p>Prerequisites</p>
+<p>Your are expected to know the following: </p>
+<p>Good working knowledge of python </p>
+<p>Good understanding on the <code>Tensorflow</code> Deep Learning framework </p>
+<p>Basic shell commands </p>
+<p>Programming:</p>
+<p>Experience with Python: Functions, Classes, Modules, NumPy, Pandas, Tensorflow</p>
+<p>Basic Data Structures: Dictionaries and Lists </p>
+<p>File I/O</p>
+<p>Grading Breakdown </p>
+<p>Discussion Forum 10% </p>
+<p>Quiz                                                      10% </p>
+<p>Exercises                                              20% </p>
+<p>Milestone 1                                          5% </p>
+<p>Milestone 2                                         15% </p>
+<p>Milestone 3                                         15% </p>
+<p>Final Presentation &amp; Deliverable     25%</p>
+<p>Course Components</p>
+<p>The course includes the following every week:</p>
+<p>2 Sessions</p>
+<p>2 Labs</p>
+<p>1 Office hours</p>
+<p>Session</p>
+<p>Before the session begins, students are expected to complete a pre-class reading assignment and and attempt a quiz based on the same. The session will be one and half hours and will have the following layout:</p>
+<p>Sessions will help students develop the intuition for the core concepts, provide the necessary mathematical background, and provide guidance on technical details. </p>
+<p>Sessions will be accompanied by relevant examples to clarify key concepts and techniques.</p>
+<p>More detailed examples of the topics will be covered in lab the following day</p>
+<p>Students must participate in sessions.  </p>
+<p>Lab</p>
+<p>The lab is a one and half hour session divided into 3 parts:</p>
+<p>Quiz and Q&amp;A Session: Q&amp;A and go over any quiz related topic from sessions</p>
+<p>Tutorial: This will be an instructor driven in-depth implementation walk through of code related to the topics covered in the previous session. These tutorials will help you understand the concepts and give you starter code that will help in your projects</p>
+<p>Homework Discussion: Code that cannot be completed in tutorials will be left as an exercise for the student to complete as homework. We will go over hints to complete your homework which will be an individual effort.</p>
+<p>It is encouraged to be present in the lab as most of the homework can be done during this time. </p>
+<p>Reading Assignments</p>
+<p>The course schedule may include readings which will be available before the lecture. The goal of the reading assignments is to prepare for class, to familiarize yourself with new terminology and definitions, and to determine which part of the subject needs more attention.</p>
+<p>Each session may have a short quiz at the beginning which covers the assigned reading for that week.</p>
+<p>Homework</p>
+<p>As mentioned above, post each lab there will be parts of the tutorial that will need to be completed as homework. </p>
+<p>Project</p>
+<p>During the entire course you will work in teams and implement a project. The various topics in the class are designed to help you build milestones in an incremental fashion and build towards the end goal. The final outcome with your project will be a fully working AI App.</p>
+<p>Project groups need to be formed by the first week of class</p>
+<p>Group size : 4</p>
+<p>Select a project from the list given or bring your own</p>
+<p>Criteria for projects are:</p>
+<p>Deep learning task implemented should include both computer vision and language models</p>
+<p>The end product should be a deployable app that uses the models in the backend in some form</p>
+<p>If you plan to bring your own project idea, the following additional criteria must be met:</p>
+<p>Dataset size 5 Gigabytes or larger</p>
+<p>Data should include images and text</p>
+<p>Please find a more detailed summary of all projects here.</p>
+<p>Deadlines</p>
+<p>All quizzes are due before the day the next session.</p>
+<p>All homework are due before the day the next lab. </p>
+<p>There will be no extensions given for the homework and quizzes.</p>
+<p>The deadline for the project milestones will be announced in the scaffold.</p>
+<p>Software</p>
+<p>All softwares required for this course and installation instructions/help will be provided in Lab 1</p>
+<p>Course Policies</p>
+<p>Getting Help</p>
+<p>For questions about homework, course content, package installation, after you have tried to troubleshoot yourselves, the process to get help is:</p>
+<p>Post the question on ED and hopefully, your peers will answer. Note that questions on ED are visible to everyone. The teaching staff monitors the posts.</p>
+<p>Attend Office Hours, this is the best way to get help.</p>
+<p>For private matters send an email to the instructor.</p>
+<p>Academic Honesty</p>
+<p>Ethical behavior is an important trait, from ethically handling data to the attribution of code and work of others. Thus, in this session, we give a strong emphasis on Academic Honesty.</p>
+<p>As a student, your best guidelines are to be reasonable and fair. We encourage teamwork for problem sets, but you should not split the homework and you should work on all the problems together.</p>
+<p>We have included some ideas below of acceptable and not acceptable behaviors. Engaging in not acceptable behavior regarding academic honesty will be handled accordingly.</p>
+<p>Please be responsible and when in doubt ask the course instructors.</p>
+<p>ACCEPTABLE:</p>
+<p>Discussing materials and engaging in OH.</p>
+<p>Helping debug.</p>
+<p>Using a few lines of code found online or another forum as long as you cite the origin and attribute authorship of code.</p>
+<p>Searching online to expand your knowledge and for debugging</p>
+<p>Using a tutor, provided the tutor does not do your work for you.</p>
+<p>NOT ACCEPTABLE:</p>
+<p>Accessing a solution to some problem prior to submitting your own.</p>
+<p>Failing to cite the origins of code or techniques that you discover outside of the course’s own lessons and integrate into your own work.</p>
+<p>Paying or offering to pay an individual for work that you may submit as your own.</p>
+<p>Providing or making available solutions to problem sets to individuals who might take this course in the future.</p>
+<p>Searching for or soliciting outright solutions to problem sets online or elsewhere.</p>
+    </main>
+
+<footer class="footer">
+  <div class="container">
+    <span class="text-muted">Copyright 2020 &copy;
+      <a class="text-muted" href="https://iacs.seas.harvard.edu/">Institute for Applied Computational Science</a>
+    </span>
+  </div>
+</footer>     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+      integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"
+      integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>
