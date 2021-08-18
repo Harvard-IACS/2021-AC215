@@ -25,6 +25,8 @@ pre {
 }
 </style>
 
+ **TENTATIVE SYLLABUS/SCHEDULE SUBJECT TO CHANGE**
+
 <br/>
 <h5>Welcome to APCOMP 215 / CSCIE-115: Advanced practical data science  </h5>
 <br/>
