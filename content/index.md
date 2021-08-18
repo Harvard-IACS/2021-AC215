@@ -41,10 +41,11 @@ pre {
   }
 </style>
 
+
 **Course helpline:**  [ac215.fall2021@gmail.com](ac215.fall2021@gmail.com) 
 <hr>
 
-<p>Welcome to AC215: Advanced practical data science, MLOps.
+<p>Welcome to AC215: Advanced practical data science, MLOps. </p>
 <br> 
 This course aims to review existing Deep Learning flow while applying it to a real-world problem. Then we will build and deploy an application that uses the deep learning model to understand how to productionize models. This course follows the CS109 model of balancing between concept, theory, and implementation.
 <br> <br> 
@@ -52,23 +53,24 @@ Split into three parts; the course starts with the review of Deep Learning conce
 <br><br> 
 At the end of this module, you will build efficient deep learning models and design, build and deploy applications that scale.
 
+
 <hr>
 <br> 
-<strong>Lectures: Tuesday </strong> and <strong>Thursday</strong> 2:15-3:30pm <a href="https://goo.gl/maps/QY8Aop4AQvVdbTU38">@SEC</a> LL2.224 
-<br><br>
+<strong>Lectures: Tuesday </strong> and <strong>Thursday</strong> 2:15-3:30pm <a href="https://goo.gl/maps/QY8Aop4AQvVdbTU38" target='_blank'>@SEC</a> LL2.224 
+<br>
 <strong>Note:</strong> All lectures will be streamed and video taped. 
- 
-<br> 
 
 <br> 
 <strong>Office Hours: (all times EST)  </strong>  (Office hours begin 09/02)
+
+
 
 |TF | Day| Office Hours| 
 |-----|-----|-----|
 |Shivas Jayaram |  |  |
 |Rashmi Banthia|  |  |
 |Andrew Smith|   |  |
-|Gordon Hew|  |  | 
+|Gordon Hew|   |  |
 
  
 
