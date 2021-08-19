@@ -115,50 +115,54 @@ Your are expected to know the following:
 
 <h4> Grading Breakdown </h4>
 
-- Discussion Forum 10% 
-- Quiz 10% 
-- Exercises 20% 
-- Milestone 1 5% 
-- Milestone 2 15% 
-- Milestone 3 15% 
-- Final Presentation & Deliverable 25%
+| Grading Breakdown| |
+|---|---|
+| Quiz  | 10%  |
+| Exercises  | 20%  |
+| Milestone 1  | 5%  |
+| Milestone 2  | 15%  |
+| Milestone 3  | 20%  |
+| Final Presentation & Deliverable | 30% |
+
+<br/>
 
 <h4>Course Components</h4>
 
 The course includes the following every week:
 
-- 2 Sessions (Lecture+Lab)
+- 2 Sessions (Tue, Thu)
 - Office hours
 
-**Session**
+**Sessions**
 
-Before the session begins, students are expected to complete a pre-class reading assignment and and attempt a quiz based on the same. The session will be one and half hours and will have the following layout:
+Before the Tuesday session begins, students are expected to complete a pre-class reading assignment and and attempt a quiz based on the same. The sessions will be one and half hours and will have the following layout:
 
 
 - Sessions will help students develop the intuition for the core concepts, provide the necessary mathematical background, and provide guidance on technical details. 
 - Sessions will be accompanied by relevant examples to clarify key concepts and techniques.
-- More detailed examples of the topics will be covered in lab the following day
+- Part of the session will be an instructor driven in-depth implementation walk through of code related to the topics covered. This will help you understand the concepts and give you starter code that will help in your projects.
 
-Students must participate in sessions.  
+Student participation is highly encouraged in sessions.  
 
-**Lab**
+<!-- **Lab**
 The lab is a one and half hour session divided into 3 parts:
 
 - Quiz and Q&A Session: Q&A and go over any quiz related topic from sessions
 - Tutorial: This will be an instructor driven in-depth implementation walk through of code related to the topics covered in the previous session. These tutorials will help you understand the concepts and give you starter code that will help in your projects
 - Homework Discussion: Code that cannot be completed in tutorials will be left as an exercise for the student to complete as homework. We will go over hints to complete your homework which will be an individual effort.
 
-It is encouraged to be present in the lab as most of the homework can be done during this time. 
+It is encouraged to be present in the lab as most of the homework can be done during this time.  -->
 
 **Reading Assignments**
 
-The course schedule may include readings which will be available before the lecture. The goal of the reading assignments is to prepare for class, to familiarize yourself with new terminology and definitions, and to determine which part of the subject needs more attention.
+The course schedule includes weekly readings which will be available before the lecture. The goal of the reading assignments is to prepare for class, to familiarize yourself with new terminology and definitions, and to determine which part of the subject needs more attention.
 
-Each session may have a short quiz at the beginning which covers the assigned reading for that week.
+Each Tuesday session will have a short quiz at the beginning which covers the assigned reading for that week.
 
 **Homework**
 
-As mentioned above, post each lab there will be parts of the tutorial that will need to be completed as homework. 
+Code that cannot be completed in class will be left as an exercise for the student to complete as homework. We will go over hints to complete your homework which will be an individual effort.
+
 
 **Project**
 
@@ -169,24 +173,24 @@ During the entire course you will work in teams and implement a project. The var
 - Group size : 4
 - Select a project from the list given or bring your own
 - Criteria for projects are:
-    - Deep learning task implemented should include both computer vision and language models
+    - Deep learning task implemented should include  preferably both computer vision and language models
     - The end product should be a deployable app that uses the models in the backend in some form
 
 - If you plan to bring your own project idea, the following additional criteria must be met:
     - Dataset size 5 Gigabytes or larger
-    - Data should include images and text
+    - Data should include preferably images and text
 
 Please find a more detailed summary of all projects here. [TODO]
 
 <h4>Deadlines</h4>
 
-- All quizzes are due before the day the next session.
-- All homework are due before the day the next lab. 
+- All quizzes are due before the next Tuesday session.
+- All homework are due before the next Thursday session. 
 - There will be no extensions given for the homework and quizzes.
 - The deadline for the project milestones will be announced in the scaffold.
 
 <h4>Software</h4>
-All softwares required for this course and installation instructions/help will be provided in Lab 1
+All softwares required for this course and installation instructions/help will be provided in first week.
 
 <h4>Course Policies</h4>
 
@@ -200,9 +204,7 @@ For questions about homework, course content, package installation, after you ha
 
 **Academic Honesty**
 
-Ethical behavior is an important trait, from ethically handling data to the attribution of code and work of others. Thus, in this session, we give a strong emphasis on Academic Honesty.
-
-As a student, your best guidelines are to be reasonable and fair. We encourage teamwork for problem sets, but you should not split the homework and you should work on all the problems together.
+Ethical behavior is an important trait, from ethically handling data to the attribution of code and work of others. Thus, in AC215, we give a strong emphasis on Academic Honesty. As a student, your best guidelines are to be reasonable and fair.
 
 We have included some ideas below of acceptable and not acceptable behaviors. Engaging in not acceptable behavior regarding academic honesty will be handled accordingly.
 
@@ -225,10 +227,6 @@ Please be responsible and when in doubt ask the course instructors.
 - Searching for or soliciting outright solutions to problem sets online or elsewhere.
 
 
-**Academic Honesty**
-
-Ethical behavior is an important trait of a Data Scientist, from ethically handling data to attribution of code and work of others. Thus, in AC295 we give a strong emphasis to Academic Honesty. As a student your best guidelines are to be reasonable and fair. We encourage teamwork for problem sets, but you should not split the assignments and you should work on all the problems together.
-
 **Accommodations for students with disabilities**
 
-Students needing academic adjustments or accommodations because of a documented disability must present their Faculty Letter from the [Accessible Education Office](http://www.aeo.fas.harvard.edu/)(AEO) and speak with Pavlos by the end of the third week of the term: Friday, September 18[TODO].  Failure to do so may result in us being unable to respond in a timely manner. All discussions will remain confidential.
+Students needing academic adjustments or accommodations because of a documented disability must present their Faculty Letter from the [Accessible Education Office](http://www.aeo.fas.harvard.edu/) (AEO) and speak with Pavlos by the end of the third week of the term: Friday, September 17.  Failure to do so may result in us being unable to respond in a timely manner. All discussions will remain confidential.
