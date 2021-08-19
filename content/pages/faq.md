@@ -33,7 +33,7 @@ pre {
   Yes. [https://github.com/Harvard-IACS/2021-AC215](https://github.com/Harvard-IACS/2021-AC215) 
 - **Does the individual Exercise (EX) mean I have to submit on my own but can I still work with my HW partner?**<br/>
   You are supposed to work on your own, and you should not work with a partner. You can ask questions at Office Hours (OHs) and use all of your materials from the course up to the EX.
-- **I am an Extension School Student, can I participate to the forum discussion? And do they count towards my grade?**<br/>
+- **I am an Extension School Student, can I participate in the  discussion forum? And do they count towards my grade?**<br/>
   All AC215 students - both Extension and Non-Extension- have access and should participate to the forum discussion. No grades for participating in discussion forums. 
 
 # Auditors
