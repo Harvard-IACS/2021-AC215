@@ -38,4 +38,4 @@ pre {
 
 # Auditors
 - **Can I audit this course?**<br/>
-  This course is based on frequent interactions among teaching staff and students. Given the nature of the class and remote teaching, our policy is not to allow auditors.
+  This course is based on frequent interactions among teaching staff and students. Given the nature of the class, our policy is not to allow auditors.
