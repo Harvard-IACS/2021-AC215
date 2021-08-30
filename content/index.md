@@ -58,7 +58,7 @@ At the end of this module, you will build efficient deep learning models and des
 <br> 
 <strong>Lectures: Tuesday </strong> and <strong>Thursday</strong> 2:15-3:30pm <a href="https://goo.gl/maps/QY8Aop4AQvVdbTU38" target='_blank'>@SEC</a> LL2.224 
 <br>
-<strong>Note:</strong> All lectures will be streamed and video taped. 
+<strong>Note:</strong> All sessions will be streamed and video taped. 
 
 <br> 
 <strong>Office Hours: (all times EST)  </strong>  (Office hours begin 09/02)
@@ -67,14 +67,12 @@ At the end of this module, you will build efficient deep learning models and des
 
 |TF | Day| Office Hours| 
 |-----|-----|-----|
-|Shivas Jayaram |  |  |
-|Rashmi Banthia|  |  |
-|Andrew Smith|   |  |
-|Gordon Hew|   |  |
+|Andrew Smith| Mon  | 7:00-8:30 PM  |
+|Rashmi Banthia| TBD | 9:30-11:00 AM |
+|Shivas Jayaram | Wed | 3:30-5:00 PM |
+|Gordon Hew| Sat | 10:00-11:30 AM |
 
  
-
-
 <br/>
 
 <hr>

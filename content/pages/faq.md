@@ -35,6 +35,8 @@ pre {
   You are supposed to work on your own, and you should not work with a partner. You can ask questions at Office Hours (OHs) and use all of your materials from the course up to the EX.
 - **I am an Extension School Student, can I participate in the  discussion forum? And do they count towards my grade?**<br/>
   All AC215 students - both Extension and Non-Extension- have access and should participate to the forum discussion. No grades for participating in discussion forums. 
+- **I’m unable to attend lectures in person. Is attendance mandatory ?** <br/>
+Attendance is not mandatory. All sessions are recorded, however you do miss out on interaction with Professors and other students.
 
 # Auditors
 - **Can I audit this course?**<br/>

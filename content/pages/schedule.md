@@ -1,6 +1,6 @@
 Title: Schedule
 Slug: schedule
-Date: 2021-08-20
+Date: 2021-08-30
 
 
 |Week|Session (Tuesday, Thursday)|Assignment (R:release - D:due) Thu|
