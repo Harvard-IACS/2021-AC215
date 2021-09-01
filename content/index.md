@@ -79,5 +79,5 @@ At the end of this module, you will build efficient deep learning models and des
 
 
 ## Previous Material 
-[2020 Fall](https://harvard-iacs.github.io/2020-AC295/pages/schedule.html)
+[2020 Fall](https://harvard-iacs.github.io/2020F-AC295/)
 
