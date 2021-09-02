@@ -1,11 +1,11 @@
 Title: Schedule
 Slug: schedule
-Date: 2021-09-01
+Date: 2021-09-02
 
 
 |Week|Session (Tuesday, Thursday)|Assignment (R:release - D:due) Thu|
 |-----|-----|-----|
-|2-Sep|Introduction to Course/Projects - Lecture, Problem Definition, Proposed Solutions, Project Scope|No assignment|
+|2-Sep|[Session 1: Introduction to Course/Projects - Lecture, Problem Definition, Proposed Solutions, Project Scope]({filename}/lectures/lecture1/index.md)|No assignment|
 |7-Sep|Data Pipelines, Tensorflow Data, Tensorflow Records, Dask, Cloud Storage (GCS)|R:EX1 |
 |14-Sep|Data Pipelines, Tensorflow Data, Tensorflow Records, Dask, Cloud Storage (GCS)|R:EX2 - D:EX1, D:Milestone1 |
 |21-Sep|Computer Vision: Classification, Segmentation, Distillation and Compression|R:EX3 - D:EX2|
