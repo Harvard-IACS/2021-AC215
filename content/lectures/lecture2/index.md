@@ -9,6 +9,9 @@ Tags: Advanced Practical Data Science, Introduction, TF Data
 
 
 - [Session 2: Data Pipelines, Tensorflow Data, Tensorflow Records, Dask, Cloud Storage (GCS)| PDF]({attach}presentation/session2.pdf) 
+
+- [Session 3: Data Pipelines, Tensorflow Data, Tensorflow Records, Dask, Cloud Storage (GCS)| PDF]({attach}presentation/session3.pdf) 
+
 <!-- - [Lecture 1: Introduction | PPTX]({attach}presentation/lecture1.pptx) -->
 
 
