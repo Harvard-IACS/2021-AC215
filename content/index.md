@@ -68,7 +68,7 @@ At the end of this module, you will build efficient deep learning models and des
 |TF | Day| Office Hours| 
 |-----|-----|-----|
 |Andrew Smith| Mon  | 7:00-8:30 PM  |
-|Rashmi Banthia (no OH 09/07, see Ed)| Tue | 9:30-11:00 AM |
+|Rashmi Banthia | Tue | 9:30-11:00 AM |
 |Shivas Jayaram | Wed | 3:30-5:00 PM |
 |Gordon Hew| Sat | 10:00-11:30 AM |
 
