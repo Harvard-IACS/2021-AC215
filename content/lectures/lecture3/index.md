@@ -2,7 +2,7 @@ Title: Session 4: Data Pipelines, Tensorflow Data, Tensorflow Records, Dask, Clo
 Category: lectures
 Date: 2021-09-14
 Author: Pavlos Protopapas
-Slug: lecture4
+Slug: lecture3
 Tags: Advanced Practical Data Science, Introduction, TF Data 
 
 ## Slides
