@@ -1,4 +1,4 @@
-Title: Session 4: Data Pipelines, Tensorflow Data, Tensorflow Records, Dask, Cloud Storage (GCS)
+Title: Lecture 4: Data Pipelines, Tensorflow Data, Tensorflow Records, Dask, Cloud Storage (GCS)
 Category: lectures
 Date: 2021-09-14
 Author: Pavlos Protopapas
