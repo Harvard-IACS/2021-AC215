@@ -8,5 +8,5 @@ Tags: Advanced Practical Data Science, Introduction, TF Data
 ## Slides
 
 
-- [Lecture 6: Computer Vision| PDF]({attach}presentation/lecture6.pdf) 
+- [Lecture 6-7-8: Computer Vision| PDF]({attach}presentation/lecture6.pdf) 
 
