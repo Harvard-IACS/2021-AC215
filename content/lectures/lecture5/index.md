@@ -9,3 +9,5 @@ Tags: Advanced Practical Data Science, Introduction, TF Data
 
 
 - [Lecture 9-10-11: NLP & Language Models, Transfer Learning and SOTA Models| PDF]({attach}presentation/lecture9.pdf) 
+
+- [Self Attention, Transformers, BERT| PDF]({attach}presentation/S8_h.pdf) 
