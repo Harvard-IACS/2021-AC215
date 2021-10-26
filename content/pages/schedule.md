@@ -12,8 +12,8 @@ Date: 2021-10-26
 |28-Sep|[Lecture 9: NLP & Language Models, Transfer Learning and SOTA Models]({filename}/lectures/lecture5/index.md)|R:EX3|
 |5-Oct|[Lecture 12: Virtual Environments & Virtual Machines, Containerization & Docker]({filename}/lectures/lecture6/index.md)|R:EX4 - D:EX3|
 |12-Oct|[Lecture 14: Virtual Environments & Virtual Machines, Containerization & Docker]({filename}/lectures/lecture7/index.md)|R:EX5 - D:EX4|
-|19-Oct|[Lecture 15: App Design, Setup & Code organization, APIs & Model serving, App frontend]({filename}/lectures/lecture8/index.md)|R:EX6 - D:EX5|
-|26-Oct|App Design, Setup & Code organization, APIs & Model serving, App frontend|R:EX7 - D:EX6, D:Milestone2|
+|19-Oct|[Lecture 15: App Design, Setup & Code organization, APIs & Model serving, App frontend]({filename}/lectures/lecture9/index.md)|R:EX6 - D:EX5|
+|26-Oct|[Lecture 15: App Design, Setup & Code organization, APIs & Model serving, App frontend]({filename}/lectures/lecture9/index.md)|R:EX7 - D:EX6, D:Milestone2|
 |2-Nov|Google Cloud Platform (GCP), Kubernetes, Ansible Deployment|R::EX8 - D:EX7|
 |9-Nov|Google Cloud Platform (GCP), Kubernetes, Ansible Deployment|D:EX8|
 |16-Nov|Google Cloud Platform (GCP), Kubernetes, Ansible Deployment|No assignment|
