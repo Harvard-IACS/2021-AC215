@@ -1,8 +1,8 @@
-Title: Lecture 12: Virtual Environments & Virtual Machines, Containerization & Docker
+Title: Lecture 14: Virtual Environments & Virtual Machines, Containerization & Docker
 Category: lectures
 Date: 2021-09-21
 Author: Pavlos Protopapas
-Slug: lecture6
+Slug: lecture7
 Tags: Virtual Machines, Virtual Environments
 
 ## Slides
