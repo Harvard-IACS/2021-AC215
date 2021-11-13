@@ -10,4 +10,6 @@ Tags: Virtual Machines, Virtual Environments
 
 
 
-- [App Design, Setup & Code organization, APIs & Model serving, App frontend | PDF]({attach}presentation/lecture15.pdf) 
+- [Lecture 15: App Design, Setup & Code organization, APIs & Model serving, App frontend | PDF]({attach}presentation/lecture15.pdf) 
+
+- [Lecture 16-17-18: APIs and App frontend | PDF]({attach}presentation/lecture16_17_18.pdf) 

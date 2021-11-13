@@ -1,4 +1,4 @@
-Title: Computer Vision: Classification, Segmentation, Distillation and Compression
+Title: Lecture 6: Computer Vision: Classification, Segmentation, Distillation and Compression
 Category: lectures
 Date: 2021-09-21
 Author: Pavlos Protopapas

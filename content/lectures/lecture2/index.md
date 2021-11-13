@@ -1,4 +1,4 @@
-Title: Lecture 3: Data Pipelines, Tensorflow Data, Tensorflow Records, Dask, Cloud Storage (GCS)
+Title: Lecture 2: Data Pipelines, Tensorflow Data, Tensorflow Records, Dask, Cloud Storage (GCS)
 Category: lectures
 Date: 2021-09-07
 Author: Pavlos Protopapas
@@ -12,11 +12,10 @@ Tags: Advanced Practical Data Science, Introduction, TF Data
 
 - [Lecture 3: Data Pipelines, Tensorflow Data, Tensorflow Records, Dask, Cloud Storage (GCS)| PDF]({attach}presentation/session3.pdf) 
 
-<!-- - [Lecture 1: Introduction | PPTX]({attach}presentation/lecture1.pptx) -->
+<br/><br/>
 
+## Tutorial 
 
-<!--## Forms -->
-<!--
-- [Form: Make Group](https://docs.google.com/spreadsheets/d/1j52h9a9KgHjv2M92_HE_oDBSfcsKcknUZikXO8_TllQ/edit?usp=sharing) 
-- [Form: Sign Up Presentation](https://docs.google.com/spreadsheets/d/1Ngos6zKgufKXObvUCIKo4MaAjyuWwlyT4yFhDJczGXk/edit?usp=sharing)
--->
+- [Week2 notebook - Dask](https://colab.research.google.com/drive/1_xDlL9YBZUJKsQQ1UYaFIwWSHW9tKP7X?usp=sharing)
+
+- [Week3 notebook - TF Data and TF Records](https://colab.research.google.com/drive/1uJnJBwdbfg5YS6m-0eHqZZVWEthr0Rhu?usp=sharing)
