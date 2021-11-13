@@ -150,7 +150,37 @@
 <li>
 <p><a href="../../lectures/lecture6/presentation/lecture14.pdf">Containers 2 | PDF</a> </p>
 </li>
-</ul>     </main>
+</ul>
+<p><br/></p>
+<h2>Tutorial - Mega Pipeline App</h2>
+<p>🎙️ → 📝 → 🗒️  → [🔊🇫🇷] → 🔊</p>
+<p>In this tutorial the entire class will participate to build a <a href="https://ac215-mega-pipeline.dlops.io/">Mega  Pipeline App</a> which does the following:</p>
+<ol>
+<li>Allows a user to Record audio using a mic</li>
+<li>The audio file is then transcribed using Google Cloud Speech to Text API</li>
+<li>The text is used as a prompt to a pre-trained GPT2 model to Generate Text (100 words)</li>
+<li>The generated text is synthesized to audio using Google Cloud Text-to-Speech API</li>
+<li>The generated text is also translated to French using googletrans</li>
+<li>The translated text is then synthesized to audio using Google Cloud Text-to-Speech API</li>
+</ol>
+<p>The class will work in teams:</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📝Team A <a href="https://github.com/dlops-io/mega-pipeline/tree/main/transcribe_audio">transcribe_audio</a>: </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗒️Team B <a href="https://github.com/dlops-io/mega-pipeline/tree/main/generate_text">generate_text</a>:</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔊Team C <a href="https://github.com/dlops-io/mega-pipeline/tree/main/synthesis_audio_en">synthesis_audio_en</a>:</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🇫🇷Team D <a href="https://github.com/dlops-io/mega-pipeline/tree/main/translate_text">translate_text</a>:</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔊Team E <a href="https://github.com/dlops-io/mega-pipeline/tree/main/synthesis_audio">synthesis_audio</a>:</p>
+<p>Each team will create a Docker container to build the required functionality. The details on what to build in each container are linked above for each team.</p>
+<p>The overall progress of this mega pipeline can be viewed <a href="https://ac215-mega-pipeline.dlops.io/">here</a></p>
+<p><strong>GCP Credentials File:</strong></p>
+<p>(Download and place inside <app_folder>/secrets):  See Ed </p>
+<p><strong>GCS Bucket Details:</strong></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>input_audios</strong> - Bucket where we store the input audio files</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>text_prompts</strong> - Bucket where we store the text prompts that was synthesized by audio to text</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>text_paragraphs</strong> - Bucket where we store the generated text from GPT2</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>text_translated</strong> - Bucket where we store the translated text</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>text_audios</strong> - Bucket where we store the audio of the paragraph of text</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>output_audios</strong> - Bucket where we store the final French audio files</p>
+<p><img alt="mega-pipeline-bucket" src="presentation/image.png"></p>     </main>
 
 <footer class="footer">
   <div class="container">
