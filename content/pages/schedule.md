@@ -1,6 +1,6 @@
 Title: Schedule
 Slug: schedule
-Date: 2021-11-13
+Date: 2021-12-03
 
 
 |Week|Session (Tuesday, Thursday)|Assignment (R:release - D:due) Thu|
@@ -14,10 +14,10 @@ Date: 2021-11-13
 |12-Oct|[Lecture 14: Virtual Environments & Virtual Machines, Containerization & Docker]({filename}/lectures/lecture7/index.md)|R:EX5 - D:EX4|
 |19-Oct|[Lecture 15: App Design, Setup & Code organization, APIs & Model serving, App frontend]({filename}/lectures/lecture9/index.md)|R:EX6 - D:EX5|
 |26-Oct|[Lecture 15: App Design, Setup & Code organization, APIs & Model serving, App frontend]({filename}/lectures/lecture9/index.md)|R:EX7 - D:EX6, D:Milestone2|
-|2-Nov|Google Cloud Platform (GCP), Kubernetes, Ansible Deployment|R::EX8 - D:EX7|
-|9-Nov|Google Cloud Platform (GCP), Kubernetes, Ansible Deployment|D:EX8|
-|16-Nov|Google Cloud Platform (GCP), Kubernetes, Ansible Deployment|No assignment|
-|23-Nov|Guest Lecture.  No Class on 25-Nov||
+|2-Nov|[Lecture 20:Google Cloud Platform (GCP), Kubernetes, Ansible Deployment]({filename}/lectures/lecture10/index.md)|R::EX8 - D:EX7|
+|9-Nov|[Lecture 20:Google Cloud Platform (GCP), Kubernetes, Ansible Deployment]({filename}/lectures/lecture10/index.md)|D:EX8|
+|16-Nov|[Lecture 20:Google Cloud Platform (GCP), Kubernetes, Ansible Deployment]({filename}/lectures/lecture10/index.md)|No assignment|
+|23-Nov|[Lecture: Guest Lecture - Tekal AI]({filename}/lectures/lecture11/index.md)||
 |30-Nov|Project Discussion|D:Milestone3|
 |7-Dec|Final Project||
 |14-Dec|Final Project||
