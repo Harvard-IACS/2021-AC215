@@ -1,6 +1,6 @@
 Title: Schedule
 Slug: schedule
-Date: 2021-12-03
+Date: 2022-01-03
 
 
 |Week|Session (Tuesday, Thursday)|Assignment (R:release - D:due) Thu|
